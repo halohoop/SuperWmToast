@@ -92,7 +92,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             layoutParams.type = WindowManager.LayoutParams.TYPE_SYSTEM_ERROR;//2010 above status can click
 
             mWindowManager.addView(textView, layoutParams);
-            SuperWmToast.makeText(MainActivity.this, "halohoop2").show();
+            SuperWmToast.makeText(MainActivity.this, "halohoop1").show();
         }
     }
 
