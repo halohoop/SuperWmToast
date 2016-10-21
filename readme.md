@@ -8,7 +8,7 @@ Feel free and help yourself!
 
 ## Usage
 
-* compile 'com.halohoop:middlelinesdialogutilslib:2.0.3'
+* compile 'com.halohoop:SuperWmToast:1.0.0'
 
 	SuperWmToast.makeText(MainActivity.this, "halohoop1").show();
 
